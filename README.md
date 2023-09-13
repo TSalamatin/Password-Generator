@@ -1,5 +1,4 @@
-# Week-3-Java
-
+# Password Generator
 Link:
 https://tsalamatin.github.io/Week-3-Java/
 
